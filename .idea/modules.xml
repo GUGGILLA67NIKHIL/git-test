@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/collections/Mapst/Hashmap/Hashmap.iml" filepath="$PROJECT_DIR$/collections/Mapst/Hashmap/Hashmap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collections/Mapst/Mapst.iml" filepath="$PROJECT_DIR$/collections/Mapst/Mapst.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collections/listex/arraylist/Stremspack/Stremspack.iml" filepath="$PROJECT_DIR$/collections/listex/arraylist/Stremspack/Stremspack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collections/listex/arraylist/Threadtest/Threadtest.iml" filepath="$PROJECT_DIR$/collections/listex/arraylist/Threadtest/Threadtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collections/listex/arraylist/arraylist.iml" filepath="$PROJECT_DIR$/collections/listex/arraylist/arraylist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collections/listex/arraylistex.iml" filepath="$PROJECT_DIR$/collections/listex/arraylistex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collections/collection.iml" filepath="$PROJECT_DIR$/collections/collection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collections/listex/arraylist/final/final.iml" filepath="$PROJECT_DIR$/collections/listex/arraylist/final/final.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collections/Mapst/hashtable/hashtable.iml" filepath="$PROJECT_DIR$/collections/Mapst/hashtable/hashtable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collections/listex/arraylist/innerclass/innerclass.iml" filepath="$PROJECT_DIR$/collections/listex/arraylist/innerclass/innerclass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javatest.iml" filepath="$PROJECT_DIR$/javatest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collections/listex/arraylist/lamdatest/lamdatest.iml" filepath="$PROJECT_DIR$/collections/listex/arraylist/lamdatest/lamdatest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collections/Mapst/Hashmap/linkedhashmap/linkedhashmap.iml" filepath="$PROJECT_DIR$/collections/Mapst/Hashmap/linkedhashmap/linkedhashmap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collections/listex/linkedlist/linkedlist.iml" filepath="$PROJECT_DIR$/collections/listex/linkedlist/linkedlist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/memory/memory.iml" filepath="$PROJECT_DIR$/memory/memory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proprties/optionaltest/optionaltest.iml" filepath="$PROJECT_DIR$/proprties/optionaltest/optionaltest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proprties/proprties.iml" filepath="$PROJECT_DIR$/proprties/proprties.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collections/qeueex/qeueex.iml" filepath="$PROJECT_DIR$/collections/qeueex/qeueex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collections/setex/setex.iml" filepath="$PROJECT_DIR$/collections/setex/setex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collections/listex/stack/sorting/sorting.iml" filepath="$PROJECT_DIR$/collections/listex/stack/sorting/sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collections/listex/stack/stack.iml" filepath="$PROJECT_DIR$/collections/listex/stack/stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collections/listex/arraylist/stringtest/stringtest.iml" filepath="$PROJECT_DIR$/collections/listex/arraylist/stringtest/stringtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collections/Super/super.iml" filepath="$PROJECT_DIR$/collections/Super/super.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collections/listex/arraylist/typeconv/typeconv.iml" filepath="$PROJECT_DIR$/collections/listex/arraylist/typeconv/typeconv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collections/listex/vectorex/vectorex.iml" filepath="$PROJECT_DIR$/collections/listex/vectorex/vectorex.iml" />
+    </modules>
+  </component>
+</project>
