@@ -37,6 +37,7 @@ public class streams4 {
         System.out.println(l);
 
                // .forEach(a-> System.out.println());
+//i am testing
 
     }
 }
