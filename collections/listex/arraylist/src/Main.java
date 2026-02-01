@@ -20,7 +20,8 @@ public class Main {
         list.addAll(l2);
         System.out.println(list);
 
-
+//using dev2
+///
 //      int sum = 0;
 //      for (int a: al) {
 //          if (a % 2 == 0) {
