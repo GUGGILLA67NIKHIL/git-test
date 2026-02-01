@@ -21,6 +21,7 @@ public class Main {
         System.out.println(list);
 
 //using dev2
+//using dev1
 ///
 //      int sum = 0;
 //      for (int a: al) {
