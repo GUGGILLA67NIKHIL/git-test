@@ -19,8 +19,8 @@ public class Main {
         list.addAll(l1);
         list.addAll(l2);
         System.out.println(list);
-
-
+//using dev1
+///
 //      int sum = 0;
 //      for (int a: al) {
 //          if (a % 2 == 0) {
